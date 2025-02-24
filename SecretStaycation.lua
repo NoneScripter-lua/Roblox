@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerScripts.PlayerSystems.IDontLikeHackers.LocalScript:Destroy();game:GetService("StarterPlayer").StarterPlayerScripts.PlayerSystems.IDontLikeHackers.LocalScript:Destroy();game:GetService("Players").LocalPlayer.PlayerGui.Version.TextLabel.Text=game:GetService("Players").LocalPlayer.PlayerGui.Version.TextLabel.Text .. " NoAntiCheatv1";
